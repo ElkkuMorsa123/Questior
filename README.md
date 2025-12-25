@@ -3,6 +3,7 @@
 **Questior is a fully free to use tool to create tests/quizzes and to host them.** It is even possible to use Questior quizz on your website by just **one line of HTML code!**
 
 <img width="960" height="540" alt="example1" src="https://github.com/user-attachments/assets/3dd993a1-d60b-40f5-88ba-e5617c3b59c4" />
+
 *This is a minimal example of what a question might look like in a quiz made with Questinor.*
 
 ### How to create a quiz
@@ -12,6 +13,7 @@ To create a quiz, download and install the newest release. In the desktop app yo
 To edit the background image, go to Misc and enter a image link. However note that the image is recommended to be 1920x1080 and **must be a .png**
 
 <img width="960" height="540" alt="example2" src="https://github.com/user-attachments/assets/139e5aad-10aa-4371-aaf2-4d9794a71a15" />
+
 *This is a minimal example of what a outcome might look like in a quiz made with Questinor.*
 
 ### How to install on your website
